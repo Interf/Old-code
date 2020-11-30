@@ -1,17 +1,11 @@
 <?php
 include_once('db.php');
 
-
 $db = Db::Connect();
-
 
 include_once("chat.php");
 
 $chat_arr = Chat::getChat();
-
-
-
-
 ?>
 
 <!DOCTYPE html>
