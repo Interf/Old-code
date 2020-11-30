@@ -10,7 +10,4 @@ $db = Db::Connect();
 
 $router = new Router;
 $router->run();
-
-
-
 ?>

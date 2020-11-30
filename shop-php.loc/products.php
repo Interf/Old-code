@@ -8,10 +8,6 @@
 	<link rel="stylesheet" href="media/css/style.css">
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-
-
-
 </head>
 <body>
 	
@@ -49,8 +45,6 @@
 
 		<hr>
 
-
-
 		<!-- Product list -->
 		<div class="product-container row">
 
@@ -77,23 +71,7 @@
 
 		</div>
 
-
-
-
-
-
-
-		
-
-
-
 	</div>
-
-
-
-
-
-
 
 	<!-- JS -->
 	<script type="text/javascript" src="media/js/jquery-3.3.1.js"></script>
