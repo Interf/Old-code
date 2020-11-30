@@ -2,7 +2,6 @@
 
 return [
 
-
 	// Products page
 	"/products/category/([a-z]+)" => "prod/getProdByCategor/$1",
 	"/product/([0-9]+)" => "prod/getOneProd/$1",
@@ -17,9 +16,4 @@ return [
 	// Home page
 	"/" => "home/index", 
 	
-	
-	
-
-
-
 ];
