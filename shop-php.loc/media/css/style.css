@@ -1,0 +1,39 @@
+.is_new {
+	border: 1px solid green;
+	font-size: 20px;
+	color: green;
+	text-transform: uppercase;
+	display: table;
+	padding: 1px;
+}
+
+.is_discount {
+	margin-top: 5px;
+	border: 1px solid orange;
+	font-size: 20px;
+	color: orange;
+	text-transform: uppercase;
+	display: table;
+	padding: 1px;
+}
+
+.prod-name {
+	padding: 0;
+	margin: 0;
+}
+
+.prod-item a {
+	text-decoration: none !important;
+}
+
+.prod-item img, .add-to-cart {
+	width: 100%;
+}
+
+.prod-item button {
+	width: 100%;
+}
+
+.main_page_sort {
+	margin-bottom: 25px;
+}
