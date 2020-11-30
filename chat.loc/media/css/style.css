@@ -1,0 +1,23 @@
+.chat-item {
+	border-bottom: 3px solid gray;
+}
+
+.chat-container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.chat-text {
+	margin: 0;
+	padding: 0;
+
+}
+
+.chat-name {
+	font-size: 23px;
+	color: red;
+}
+
+.form {
+	margin-top: 25px;
+}
